@@ -16,5 +16,5 @@ npm run dev
 ```
 生产环境
 ```
-npm run production
+npm run prod
 ```
