@@ -24643,6 +24643,8 @@ module.exports = function normalizeComponent (
 //
 //
 //
+//
+//
 
 /* harmony default export */ __webpack_exports__["a"] = ({
     data(){
@@ -24674,6 +24676,8 @@ var render = function() {
   return _c(
     "div",
     [
+      _c("mt-header", { attrs: { fixed: "", title: "固定在顶部" } }),
+      _vm._v(" "),
       _c(
         "mt-swipe",
         { attrs: { auto: 4000 } },
