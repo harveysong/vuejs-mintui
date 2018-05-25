@@ -20,7 +20,9 @@
   },
   "scripts": {
     "dev": "npm run development",
-    "development": "cross-env NODE_ENV=development webpack"
+    "development": "cross-env NODE_ENV=development webpack",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "keywords": ["vuejs","javascript","node.js","mint-ui"],
   "author": "harveysong",
