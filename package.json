@@ -1,7 +1,7 @@
 {
-  "name": "cartoon",
-  "version": "1.0.0",
-  "description": "",
+  "name": "vuejs-mintui",
+  "version": "0.0.1",
+  "description": "vuejs与mintui结合构建web的模板",
   "dependencies": {
     "axios": "^0.16.2",
     "bootstrap-vue": "^1.5.1",
@@ -22,7 +22,7 @@
     "dev": "npm run development",
     "development": "cross-env NODE_ENV=development webpack"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["vuejs","javascript","node.js","mint-ui"],
+  "author": "harveysong",
+  "license": "MIT"
 }
